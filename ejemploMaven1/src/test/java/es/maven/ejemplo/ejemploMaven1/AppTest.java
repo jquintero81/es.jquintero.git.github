@@ -25,6 +25,7 @@ public class AppTest
      */
     public static Test suite()
     {
+    	//Comentario de tareasJesus1.0
         return new TestSuite( AppTest.class );
     }
 
